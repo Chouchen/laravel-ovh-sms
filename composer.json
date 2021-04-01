@@ -1,5 +1,5 @@
 {
-    "name": "okn/laravel-ovh-sms",
+    "name": "shikiryu/laravel-ovh-sms",
     "description": "OVH wrapper for Laravel",
     "keywords": [
         "ovh",
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Okn\\": "src/"
+            "Okn\\OvhSms\\": "src/"
         }
     },
     "extra": {
